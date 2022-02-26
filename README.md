@@ -1,15 +1,31 @@
 # UdacityND-Wine
-Udacity Data Analyst Nanodegree/Exploratory Data Analysis
+## Udacity Data Analyst Nanodegree/Exploratory Data Analysis
 
 Overview
-This is a first project from the Udacity Analyst Nanodegree program. The goal of the project is to cover basic skills in exploratory data analysis, including basic data manipulation and data exploration using pandas and data visualization using Matplotlib.
+This is a project from the Udacity Analyst Nanodegree program. The goal of the project is to cover basic skills in exploratory data analysis, including basic data manipulation and data exploration using Pandas and NumPy, and data visualization using Matplotlib.
 
-This project was developed in 2017 during the Nanodegree and it is no longer maintained. 
+This project was developed in 2020 during the Nanodegree and it is no longer maintained. 
 
-About
+## About
+This project explores the relationship between the quality of wine and its chemical properties (e.g. acidity, residual sugar, pH). The dataset comprises 6497 wines from a 2 datasets on red wine and white wine, and 13 variables, 12 of which describe the properties of the wine , and 1 of which is the quality rating of the wine. 
 
-Tech Stack
-pandas
+## Tech Stack
+Pandas
+NumPy
 Matplotlib
 
-File Structure
+## Project Structure
+The project is structured as follows
+
+### Datasets
+winequality-red.csv - raw data set on red wine
+winequality-white.csv - raw data set on white wine
+winequality_edited.csv - processed data set combining red and white wine data
+
+### Project files
+ - python code to process the data
+ - various operations to understand the relationship between the variables
+ - various visualizations of the processed data set
+ - 
+
+
