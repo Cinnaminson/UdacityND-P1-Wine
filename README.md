@@ -17,13 +17,13 @@ Matplotlib
 The project is structured as follows
 
 ### Datasets
-winequality-red.csv - raw data set on red wine
-winequality-white.csv - raw data set on white wine
-winequality_edited.csv - processed data set combining red and white wine data
+[winequality-red.csv](https://github.com/Cinnaminson/UdacityND-Wine/files/8146098/winequality-red.csv)- raw data set on red wine
+[winequality-white.csv](https://github.com/Cinnaminson/UdacityND-Wine/files/8146099/winequality-white.csv) - raw data set on white wine
+[winequality_edited.csv](https://github.com/Cinnaminson/UdacityND-Wine/files/8146100/winequality_edited.csv) - processed data set combining red and white wine data
 
 ### Jupyter Notebooks
- appending-solutions.ipynb - python code to process the data and derive winequality_edited.csv which serves as the base data set for the project 
- conclusions_query_solution.ipynb - various queries to understand the relationship between the variables
- eda_visuals_solutions.ipynb- various visualizations of the processed data set
+appending-solutions.ipynb - python code to process the data and derive winequality_edited.csv which serves as the base data set for the project 
+conclusions_query_solution.ipynb - various queries to understand the relationship between the variables
+eda_visuals_solutions.ipynb- various visualizations of the processed data set
 
 
