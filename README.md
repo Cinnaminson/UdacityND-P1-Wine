@@ -22,8 +22,8 @@ The project is structured as follows
 [winequality_edited.csv](https://github.com/Cinnaminson/UdacityND-Wine/files/8146100/winequality_edited.csv) - processed data set combining red and white wine data  
 
 ### Jupyter Notebooks
-appending-solutions.ipynb (UdacityND-Wine/appending-solutions.ipynb) - python code to process the data and derive winequality_edited.csv which serves as the base data set for the project  
-conclusions_query_solution.ipynb (UdacityND-Wine/conclusions_query_solution.ipynb) - various queries to understand the relationship between the variables  
-eda_visuals_solutions.ipynb (UdacityND-Wine/eda_visuals_solutions.ipynb) - various visualizations of the processed data set  
+[appending-solutions.ipynb](./appending-solutions.ipynb) - python code to process the data and derive winequality_edited.csv which serves as the base data set for the project  
+[conclusions_query_solution.ipynb](./conclusions_query_solution.ipynb) - various queries to understand the relationship between the variables  
+[eda_visuals_solutions.ipynb](./eda_visuals_solutions.ipynb) - various visualizations of the processed data set  
 
 
