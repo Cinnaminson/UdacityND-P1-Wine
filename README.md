@@ -22,7 +22,7 @@ The project is structured as follows
 [winequality_combined.csv](https://github.com/Cinnaminson/UdacityND-Wine/files/8147701/winequality_combined.csv) - processed data set combining red and white wine data  
 
 ### Jupyter Notebooks
-[appending-solutions.ipynb](./appending-solutions.ipynb) -main file containing the python code for this project
+[Wine Quality Data Exploration.ipynb](./Wine Quality Data Exploration.ipynb) -main file containing the python code for this project
 
 
 
