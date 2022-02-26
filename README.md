@@ -6,7 +6,7 @@ This is a project from the Udacity Analyst Nanodegree program. The goal of the p
 This project was developed in 2020 during the Nanodegree and it is no longer maintained. 
 
 ## About
-This project explores the relationship between the quality of wine and its chemical properties (e.g. acidity, residual sugar, pH). The dataset comprises 6497 wines from a 2 datasets on red wine and white wine, and 13 variables, 12 of which describe the properties of the wine , and 1 of which is the quality rating of the wine. 
+This project explores the relationship between the quality of wine and its chemical properties (e.g. acidity, residual sugar, pH). The dataset comprises 6497 wines from 2 datasets on red wine and white wine, and 13 variables, 12 of which describe the properties of the wine , and 1 of which is the quality rating of the wine. 
 
 ## Tech Stack
 Pandas
