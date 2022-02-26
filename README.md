@@ -9,17 +9,17 @@ This project was developed in 2020 during the Nanodegree and it is no longer mai
 This project explores the relationship between the quality of wine and its chemical properties (e.g. acidity, residual sugar, pH). The dataset comprises 6497 wines from 2 datasets on red wine and white wine, and 13 variables, 12 of which describe the properties of the wine , and 1 of which is the quality rating of the wine. 
 
 ## Tech Stack
-Pandas
-NumPy
-Matplotlib
+Pandas  
+NumPy  
+Matplotlib  
 
 ## Project Structure
 The project is structured as follows
 
 ### Datasets
-[winequality-red.csv](https://github.com/Cinnaminson/UdacityND-Wine/files/8146098/winequality-red.csv)- raw data set on red wine
-[winequality-white.csv](https://github.com/Cinnaminson/UdacityND-Wine/files/8146099/winequality-white.csv) - raw data set on white wine
-[winequality_edited.csv](https://github.com/Cinnaminson/UdacityND-Wine/files/8146100/winequality_edited.csv) - processed data set combining red and white wine data
+[winequality-red.csv](https://github.com/Cinnaminson/UdacityND-Wine/files/8146098/winequality-red.csv)- raw data set on red wine  
+[winequality-white.csv](https://github.com/Cinnaminson/UdacityND-Wine/files/8146099/winequality-white.csv) - raw data set on white wine  
+[winequality_edited.csv](https://github.com/Cinnaminson/UdacityND-Wine/files/8146100/winequality_edited.csv) - processed data set combining red and white wine data  
 
 ### Jupyter Notebooks
 appending-solutions.ipynb - python code to process the data and derive winequality_edited.csv which serves as the base data set for the project 
