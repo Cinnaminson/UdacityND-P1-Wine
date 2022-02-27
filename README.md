@@ -1,7 +1,7 @@
-# UdacityND-Wine
-## Udacity Data Analyst Nanodegree/Exploratory Data Analysis
+# Udacity Data Analyst Nanodegree - Project 1: Exploratory Data Analysis
 
-This is a project from the Udacity Analyst Nanodegree program. The goal of the project is to cover basic skills in exploratory data analysis, including basic data manipulation and data exploration using Pandas and NumPy, and data visualization using Matplotlib.
+##Overview  
+This is a project from the Udacity Data Analyst Nanodegree program. The goal of this project is to cover basic skills in exploratory data analysis, including basic data manipulation and data exploration using Pandas and NumPy, and data visualization using Matplotlib.
 
 This project was developed in 2020 during the Nanodegree and it is no longer maintained. 
 
